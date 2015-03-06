@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Group Behavior and Conflict/Work Teams** <span id="7"></span> 
 *Since the workplace typically requires employees to work and interact
 with people in group settings, it is important to examine how

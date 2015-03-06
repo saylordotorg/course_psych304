@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Work-Family Balance** <span id="8"></span> 
 *The final unit on the course will examine how workers and employers are
 both managing work-family balance in an effort to keep health costs down

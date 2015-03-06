@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Job Analysis and Evaluation** <span id="2"></span> 
 **An individual analyzes a job or career (i.e. performs “job analysis”)
 by identifying the components and requirements of that job and

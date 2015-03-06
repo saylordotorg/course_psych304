@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Evaluating Work Performance** <span id="4"></span> 
 **In the previous unit, we discussed various methods of evaluating work
 performance. This may seem like a straightforward task, but as this unit

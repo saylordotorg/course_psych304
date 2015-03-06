@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Employee Motivation, Satisfaction, and Commitment** <span
 id="5"></span> 
 *In previous units, we have gone over material that is primarily

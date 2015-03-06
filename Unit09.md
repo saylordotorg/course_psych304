@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Final Exam** <span id="9"></span> 
 -   **Final Exam: The Saylor Foundation’s “PSYCH304 Final Exam”**
     Link: The Saylor Foundation’s [“PSYCH304 Final

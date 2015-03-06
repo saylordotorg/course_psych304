@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Recruitment, Selection, and Retainment** <span id="3"></span> 
 **In this unit, we will review different ways of screening and selecting
 employees. This evaluation process generally takes the form of an

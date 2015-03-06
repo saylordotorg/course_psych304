@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH304: Industrial/Organizational Psychology"
 --------------------------------------------------------------------
 

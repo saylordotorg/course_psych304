@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH304: Industrial/Organizational Psychology"
+course_description: "An introduction to the application of psychological research and theory to human interaction (both with other humans and with human factors, or machines and computers) in the workplace."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Leadership** <span id="6"></span> 
 *Leadership is an important trait in the workplace, as partly evidenced
 by the myriad books and seminars available to individuals interested in
