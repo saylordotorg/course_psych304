@@ -197,7 +197,7 @@ id="4.4"></span> 
 -   **Reading: eNotes: “Employee Evaluation and Performance
     Appraisals”**
     Link: eNotes: [“Employee Evaluation and Performance
-    Appraisals](http://www.enotes.com/employee-evaluation-performance-appraisals-reference/employee-evaluation-performance-appraisals)[”](http://www.enotes.com/employee-evaluation-performance-appraisals-reference/employee-evaluation-performance-appraisals)
+    Appraisals](http://www.enotes.com/employee-evaluation-performance-appraisals-reference/employee-evaluation-performance-appraisals)[”](http://web.archive.org/web/20130522231954/http://www.enotes.com/employee-evaluation-performance-appraisals-reference/employee-evaluation-performance-appraisals)
     (HTML)  
         
      Instructions: Read the entire article on the many methods of
