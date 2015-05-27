@@ -187,10 +187,10 @@ id="4.4"></span> 
 
 **4.5 The Methods of Job Appraisal** <span id="4.5"></span> 
 **4.5.1 Employee Comparisons** <span id="4.5.1"></span> 
--   **Reading: eNotes: “Employee Evaluation and Performance
+-   **Reading: Reference for Business' Encyclopedia of Management: “Employee Evaluation and Performance
     Appraisals”**
-    Link: eNotes: [“Employee Evaluation and Performance
-    Appraisals](http://www.enotes.com/employee-evaluation-performance-appraisals-reference/employee-evaluation-performance-appraisals)[”](http://web.archive.org/web/20130522231954/http://www.enotes.com/employee-evaluation-performance-appraisals-reference/employee-evaluation-performance-appraisals)
+    Link: Reference for Business' Encyclopedia of Management: [“Employee Evaluation and Performance
+    Appraisals"](http://www.referenceforbusiness.com/management/Em-Exp/Employee-Evaluation-and-Performance-Appraisals.html)
     (HTML)  
         
      Instructions: Read the entire article on the many methods of
