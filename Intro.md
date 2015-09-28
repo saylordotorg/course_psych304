@@ -171,3 +171,4 @@ from each unit. Good luck! 
 - [Unit 7](https://legacy.saylor.org/psych304/Unit07/)
 - [Unit 8](https://legacy.saylor.org/psych304/Unit08/)
 - [Unit 9](https://legacy.saylor.org/psych304/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH304/PSYCH304-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH304/PSYCH304-FinalExam-Answers.html)
