@@ -198,7 +198,7 @@ Type of Incentive** <span id="5.4.2"></span> 
 id="5.4.5"></span> 
 -   **Activity: The Saylor Foundation’s “Unit 5 Practice Problem”**
     Link: The Saylor Foundation’s [“Unit 5 Practice
-    Problem](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
+    Problem](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
       
      Instructions: Click on the link above to download the practice
     problem sets for the course. Complete the problem for Unit 5.

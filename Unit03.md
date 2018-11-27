@@ -42,7 +42,7 @@ Upon successful completion of this unit, the student will be able to:
     Assessment”**
     Link: Human Resources Guide: U.S. Department of Labor Employment and
     Training Administration’s [“Chapter 1: Personnel
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych304-3.1.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych304-3.1.pdf)
     (PDF)  
         
      Instructions: Read this entire webpage for information on personnel
@@ -76,7 +76,7 @@ id="3.2"></span> 
     Link: Human Resources Guide: U.S. Department of Labor Employment and
     Training Administration’s [“Chapter 2: Laws and Regulations with
     Implications for
-    Assessments”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych304-3.2.1.pdf)
+    Assessments”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych304-3.2.1.pdf)
     (PDF)  
         
      Instructions: Read this entire webpage for material discussing the
@@ -238,7 +238,7 @@ Liability Claims** <span id="3.5.8"></span> 
 
 -   **Activity: The Saylor Foundation’s “Unit 3 Practice Problem”**
     Link: The Saylor Foundation’s [“Unit 3 Practice
-    Problem](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf)
+    Problem](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf)
     (PDF)  
       
      Instructions: Click on the link above to download the practice

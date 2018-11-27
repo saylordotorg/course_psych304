@@ -91,7 +91,7 @@ id="7.1.1"></span> 
 **7.2.1 Theories of Small Group Development** <span id="7.2.1"></span> 
 -   **Reading: *Organizational Behavior*: “Section 9.1 Group Dynamics”**
     Link: *Organizational Behavior*: [“Section 9.1: Group
-    Dynamics”](http://www.saylor.org/site/textbooks/Organizational%20Behavior.pdf)
+    Dynamics”](https://resources.saylor.org/archived/textbooks/Organizational%20Behavior.pdf)
     (PDF)  
         
      Instructions: Read Section 9.1, which demonstrates how to
@@ -135,7 +135,7 @@ id="7.1.1"></span> 
 **7.3.1 Group Cohesiveness** <span id="7.3.1"></span> 
 -   **Reading: Connexions: William Frey’s “Ethics of Team Work”**
     Link: Connexions: William Frey’s [“Ethics of Team
-    Work”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych304-7.3.1.pdf)
+    Work”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych304-7.3.1.pdf)
     (PDF)  
         
      Also available in:  
@@ -268,7 +268,7 @@ id="7.3.2"></span> 
 
 -   **Activity: The Saylor Foundation’s “Unit 7 Practice Problem”**
     Link: The Saylor Foundation’s [“Unit 7 Practice
-    Problem”](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
+    Problem”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
       
      Instructions: Click on the link above to download the practice
     problem sets for the course. Complete the problem for Unit 7.

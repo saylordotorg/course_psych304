@@ -202,7 +202,7 @@ id="8.3.2"></span> 
 **8.3.5 Goals of Ergonomics** <span id="8.3.5"></span> 
 -   **Reading: Absolute Astronomy: “Ergonomics”**
     Link: Absolute Astronomy:
-    [“Ergonomics](http://www.saylor.org/site/wp-content/uploads/2011/07/psych304-8.3.5.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych304-8.3.5.pdf)
+    [“Ergonomics](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych304-8.3.5.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych304-8.3.5.pdf)
     (PDF)  
       
      Instructions: Read this entire article on the history and etymology
@@ -241,7 +241,7 @@ id="8.3.7"></span> 
 
 -   **Activity: The Saylor Foundation’s “Unit 8 Practice Problem”**
     Link: The Saylor Foundation’s [“Unit 8 Practice
-    Problem](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
+    Problem](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
       
      Instructions: Click on the link above to download the practice
     problem sets for the course. Complete the problem for Unit 8.
