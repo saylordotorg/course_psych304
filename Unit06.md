@@ -202,7 +202,7 @@ id="6.4.1"></span> 
     Overlooked Aspect of Effective Leadership Practices: A Review of the
     Literature on Desirable Traits, Behaviors, and Characteristics for
     Successful Leadership Promoting Transformational
-    Change”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych304-6.4.1.pdf)
+    Change”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/psych304-6.4.1.pdf)
     (PDF)  
         
      Also available in:  
@@ -237,7 +237,7 @@ Path** <span id="6.4.4"></span> 
 **6.4.5 Charismatic Leaders** <span id="6.4.5"></span> 
 -   **Activity: The Saylor Foundation’s “Unit 6 Practice Problem”**
     Link: The Saylor Foundation’s [“Unit 6 Practice
-    Problem”](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
+    Problem”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
       
      Instructions: Click on the link above to download the practice
     problem sets for the course. Complete the problem for Unit 6.

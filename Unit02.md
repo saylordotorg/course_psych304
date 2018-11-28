@@ -209,7 +209,7 @@ id="2.5.4"></span> 
 
 -   **Activity: The Saylor Foundation’s “Unit 2 Practice Problems”**
     Link: The Saylor Foundation’s [“Unit 2 Practice
-    Problems”](http://www.saylor.org/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
+    Problems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/PSYCH304-ProblemSets-Final.pdf) (PDF)  
       
      Instructions: Click on the link above to download the practice
     problem sets for the course. Complete the problems for Unit 2.

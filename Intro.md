@@ -91,7 +91,7 @@ a computer;
  √    be competent in the English language;  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  √    have completed all courses listed in the [Core
